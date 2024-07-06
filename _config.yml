@@ -11,8 +11,8 @@ baseurl: /blog/
 # Website info
 title: Rishab Subramaniyan
 description: Sharing my passions
-cover: assets/images/rishab_logo.png
-logo: assets/images/blog-icon.png
+cover: assets/images/sky.jpg
+logo: assets/images/rishab_logo.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
