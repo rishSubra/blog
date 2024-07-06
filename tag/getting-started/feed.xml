@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator>
+  <link href="/blog/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/blog/" rel="alternate" type="text/html" />
+  <updated>2024-07-06T16:57:50+00:00</updated>
+  <id>/blog/tag/getting-started/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Rishab Subramaniyan | </title>
+  
+
+  
+    <subtitle>Sharing my passions</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">My First Post</title>
+      <link href="/blog/first-post" rel="alternate" type="text/html" title="My First Post" />
+      <published>2024-07-05T10:00:00+00:00</published>
+      <updated>2024-07-05T10:00:00+00:00</updated>
+      <id>/blog/first-post</id>
+      <content type="html" xml:base="/blog/first-post">&lt;p&gt;Hey! My name is Rishab Subramaniyan and I am excited to share with you many of my projects and ambitions through this blog.&lt;/p&gt;
+
+&lt;p&gt;I plan on making content related to CS and Math related content and am excited to interact in the comments.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Rishab Subramaniyan</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Getting started" />
+      
+
+      
+        <summary type="html">Hey! My name is Rishab Subramaniyan and I am excited to share with you many of my projects and ambitions through this blog.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

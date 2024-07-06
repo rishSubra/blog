@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>Sharing my passions</description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>My First Post</title>
+        
+          <description>&lt;p&gt;Hey! My name is Rishab Subramaniyan and I am excited to share with you many of my projects and ambitions through this blog.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 05 Jul 2024 10:00:00 +0000</pubDate>
+        <link>
+        /first-post</link>
+        <guid isPermaLink="true">/first-post</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
